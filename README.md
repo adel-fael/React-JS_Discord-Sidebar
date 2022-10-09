@@ -7,4 +7,3 @@
 
 ### Live URL: [Discord Sidebar](https://discord-sidebar-tailwindcss.netlify.app/)
 
-by: [Fireship](https://www.youtube.com/watch?v=pfaSUYaSgRo&t=620s)
